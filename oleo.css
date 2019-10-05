@@ -1,0 +1,13 @@
+fprolloverstyle, A:hover {color: #00cd00}
+A {
+	FONT-FAMILY: Helvetica; COLOR: #97FDD7; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.page {
+	TEXT-ALIGN: center; FONT-FAMILY: Arial; COLOR: #000080; FONT-SIZE: 17px; FONT-WEIGHT: bold
+}
+.para {
+	TEXT-ALIGN: justify; FONT-FAMILY: Comic Sans MS; COLOR: #D7FFFF; FONT-SIZE: 14px
+}
+.para2 {
+	TEXT-ALIGN: justify; FONT-FAMILY: Comic Sans MS; COLOR: #FFDC93; FONT-SIZE: 14px
+}
